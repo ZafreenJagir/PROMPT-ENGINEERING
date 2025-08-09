@@ -10,6 +10,8 @@ To develop a comprehensive report for the following exercises:
 4.	Generative AI impact of scaling in LLMs.
 
 # Algorithm:
+```
+
 Step 1: Define Scope and Objectives
 Step 2: Create Report Skeleton/Structure
 Step 3: Research and Data Collection
@@ -17,7 +19,7 @@ Step 4: Content Development
 Step 5: Visual and Technical Enhancement
 Step 6: Review and Edit
 Step 7: Finalize and Export
-
+```
 # Output: 
 # Comprehensive Report on Generative AI using ChatGPT :
 # Prompt:
