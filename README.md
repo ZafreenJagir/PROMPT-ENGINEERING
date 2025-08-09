@@ -1,7 +1,7 @@
-# Register Number : 212223040252
-# Name : Zafreen J
+## Register Number : 212223040252
+## Name : Zafreen J
 
-## Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+# Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 # Aim:	
 To develop a comprehensive report for the following exercises:
 1.	Explain the foundational concepts of Generative AI. 
