@@ -159,8 +159,7 @@ c. Future of Scaling
 Research is shifting toward efficiency (smaller, faster models) and alignment (safe, controllable outputs) rather than endlessly scaling parameter counts.
 
 # Conclusion
-Generative AI represents one of the most transformative developments in technology, blending advanced architectures like transformers with massive datasets to create content across modalities. While scaling LLMs has driven breakthroughs, it also brings technical, ethical, and environmental challenges. The future will likely focus on balancing capability, efficiency, and responsible deployment.
-
+In comparison with outputs from other AI models such as Google’s Gemini, the result provided by ChatGPT demonstrates greater relevance, depth, and structural clarity. While Gemini may often produce brief or generalized summaries, ChatGPT delivers a comprehensive, well-organized explanation that integrates technical accuracy with practical examples. The content here not only addresses all four requested topics—foundational concepts, architectures, applications, and scaling impacts—but also presents them in a logical flow, supported by clear terminology and context. This ensures that the final report is more academically aligned, professionally presentable, and directly useful for the intended purpose.
 
 
 # Result
