@@ -21,7 +21,6 @@ Step 6: Review and Edit
 Step 7: Finalize and Export
 ```
 # Output: 
-# Comprehensive Report on Generative AI using ChatGPT :
 # Prompt:
 Develop a comprehensive report for the following exercises:  
 1.     Explain the foundational concepts of Generative AI.
@@ -31,6 +30,9 @@ Develop a comprehensive report for the following exercises:
 3.     Generative AI applications.
 
 4.     Generative AI impact of scaling in LLMs.
+
+
+# Comprehensive Report on Generative AI using ChatGPT :
 # 1. Foundational Concepts of Generative AI
 Generative Artificial Intelligence (Generative AI) refers to a subset of AI techniques that enable machines to produce new data, content, or ideas resembling human-created output. Unlike traditional AI systems that primarily classify, predict, or retrieve existing data, generative models learn the underlying patterns, structures, and relationships in the training data to create novel content.
 
